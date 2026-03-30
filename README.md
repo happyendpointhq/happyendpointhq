@@ -7,7 +7,7 @@ Happy Endpoint solves the **maintenance hell of web scraping** 🛠️
 Developers shouldn’t waste time fighting **proxies, CAPTCHAs 🤖, and constantly changing HTML.**  
 Instead, we turn complex websites into **clean, structured, real-time JSON APIs** 🧩➡️📦
 
-Built on **Cloudflare Workers ☁️** for:
+Built on **AWS ☁️** for:
 
 - ⚡ Low latency  
 - ✅ High availability  
