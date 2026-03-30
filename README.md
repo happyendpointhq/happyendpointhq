@@ -44,6 +44,7 @@ Docs:
 - https://happyendpointhq.github.io/real-time-priceline-data-api/
 - https://happyendpointhq.github.io/real-time-sephora-data-api/
 - https://happyendpointhq.github.io/real-time-ikea-data-api/
+- https://happyendpointhq.github.io/real-time-bayut-data-api/
 
 ---
 
