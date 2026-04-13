@@ -23,6 +23,7 @@ Built on **AWS ☁️** for:
 | 💰 **Finance** | Morningstar |
 | 🏠 **Real Estate** | Rightmove UK · Fotocasa Spain |
 | ✈️ **Travel** | Priceline |
+| 🏢 **UAE Real Estate** | Propertyfinder · Bayut |
 
 From **indie hackers 👨‍💻** to **data-driven agencies 📊**, Happy Endpoint gives you the **raw ingredients to ship faster ⏱️**
 
@@ -31,20 +32,13 @@ From **indie hackers 👨‍💻** to **data-driven agencies 📊**, Happy Endpo
 
 ---
 
-## 🔌 Featured APIs
-
-| API | Description |
-|----|----|
-| ✈️ **Priceline API** | Real-time travel pricing & listings |
-| 💄 **Sephora API** | Beauty product catalog & pricing data |
-| 🪑 **IKEA API** | Structured IKEA product catalog |
-
-Docs:
+## Docs:
 
 - https://happyendpointhq.github.io/real-time-priceline-data-api/
 - https://happyendpointhq.github.io/real-time-sephora-data-api/
 - https://happyendpointhq.github.io/real-time-ikea-data-api/
 - https://happyendpointhq.github.io/real-time-bayut-data-api/
+- https://happyendpointhq.github.io/real-time-propertyfinder-data-api/
 
 ---
 
@@ -58,7 +52,7 @@ Available on **RapidAPI**
 
 ## 🏗 Infrastructure
 
-- ☁️ Cloudflare Workers
+- ☁️ AWS Cloud
 - 🌍 Edge-distributed infrastructure
 - ⚡ Sub-400ms responses
 - 🔁 Resilient scraping infrastructure
