@@ -64,6 +64,11 @@ Available on **RapidAPI**
 
 **Built by [Happy Endpoint](https://happyendpoint.com)**
 
+**Our Other Websites**
+- https://propertyfinderapi.com/
+- https://bayutapi.dev/
+
+
 [![Platform](https://img.shields.io/badge/Platform-RapidAPI-blue)](https://rapidapi.com/user/happyendpoint)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success)]()
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen)]()
