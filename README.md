@@ -32,6 +32,13 @@ From **indie hackers 👨‍💻** to **data-driven agencies 📊**, Happy Endpo
 
 ---
 
+## Check out our Datasets
+- IKEA US Complete Product Dataset (2026) - 10,564 Products, 933 Categories, Ready-to-Use CSV: https://payhip.com/b/Ppkis
+- Sephora US Products Data 8K+ Products: https://payhip.com/b/faOZH
+- PropertyFinder UAE Real Estate Historical Transactions Data: https://payhip.com/b/A4nRp
+
+---
+
 ## Docs:
 
 - https://happyendpointhq.github.io/real-time-priceline-data-api/
