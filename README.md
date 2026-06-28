@@ -72,7 +72,7 @@ Available on **RapidAPI**
 **Built by [Happy Endpoint](https://happyendpoint.com)**
 
 **Our Other Websites**
-- https://propertyfinderapi.dev/
+- https://uaepropertyapi.com/
 - https://bayutapi.dev/
 
 
