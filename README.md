@@ -1,86 +1,129 @@
-# Happy Endpoint 🚀
+# Happy Endpoint
 
-**Developer-first real-time data APIs**
+Real-time data APIs for property portals, retailers, and marketplaces.
 
-Happy Endpoint solves the **maintenance hell of web scraping** 🛠️
+We turn sites that have no public API into clean, structured JSON endpoints, so
+you do not have to build and maintain scrapers, rotate proxies, or repair
+selectors every time the HTML changes. Every API is available on RapidAPI with a
+free tier.
 
-Developers shouldn’t waste time fighting **proxies, CAPTCHAs 🤖, and constantly changing HTML.**  
-Instead, we turn complex websites into **clean, structured, real-time JSON APIs** 🧩➡️📦
-
-Built on **AWS ☁️** for:
-
-- ⚡ Low latency  
-- ✅ High availability  
-- 📈 Reliable responses at scale  
-
----
-
-## 🌍 What We Power
-
-| Industry | Platforms |
-|--------|--------|
-| 🛒 **E-Commerce & Retail** | Sephora · H&M · IKEA · Tesco · Kohl’s |
-| 💰 **Finance** | Morningstar |
-| 🏠 **Real Estate** | Rightmove UK · Fotocasa Spain |
-| ✈️ **Travel** | Priceline |
-| 🏢 **UAE Real Estate** | Propertyfinder · Bayut |
-
-From **indie hackers 👨‍💻** to **data-driven agencies 📊**, Happy Endpoint gives you the **raw ingredients to ship faster ⏱️**
-
-> ❌ Stop scraping  
-> 🧱 Start building
+[happyendpoint.com](https://happyendpoint.com) |
+[API catalogue](https://happyendpoint.com/library) |
+[Datasets](https://happyendpoint.com/datasets) |
+[Documentation](https://docs.happyendpoint.com)
 
 ---
 
-## Check out our Datasets
-- IKEA US Complete Product Dataset (2026) - 10,564 Products, 933 Categories, Ready-to-Use CSV: https://payhip.com/b/Ppkis
-- Sephora US Products Data 8K+ Products: https://payhip.com/b/faOZH
-- PropertyFinder UAE Real Estate Historical Transactions Data: https://payhip.com/b/A4nRp
+## What we cover
+
+| Market | Platforms |
+|---|---|
+| UAE real estate | Bayut, PropertyFinder, UAE Real Estate |
+| UK real estate | Rightmove, Gumtree |
+| Spain real estate | Idealista, Fotocasa |
+| Turkey real estate | Emlakjet, Hepsiemlak |
+| US real estate | Auction.com, Realtor.com |
+| APAC real estate | 99co (Singapore), Suumo (Japan) |
+| Other real estate | Aqar (Saudi Arabia), Yad2 (Israel), Njuskalo (Croatia) |
+| Retail and grocery | Tesco, IKEA, Kohl's, H&M |
+| Beauty | Sephora |
+| Travel | Priceline, VRBO |
+| Finance | Morningstar, Klarna |
+
+Two product shapes per platform. **APIs** for request-time data, priced per
+request through RapidAPI. **Datasets** for bulk snapshots, priced per file. Most
+datasets ship a free sample with an identical schema, so you can build against
+the sample and switch to the paid file once your integration works.
 
 ---
 
-## Docs:
+## Repositories
 
-- https://happyendpointhq.github.io/real-time-priceline-data-api/
-- https://happyendpointhq.github.io/real-time-sephora-data-api/
-- https://happyendpointhq.github.io/real-time-ikea-data-api/
-- https://happyendpointhq.github.io/real-time-bayut-data-api/
-- https://happyendpointhq.github.io/real-time-propertyfinder-data-api/
+### API documentation
 
----
+| Repo | Covers | Hosted docs |
+|---|---|---|
+| [bayut-api](https://github.com/happyendpointhq/bayut-api) | Dubai and UAE listings, agents, agencies, off-plan, transactions | [docs](https://happyendpointhq.github.io/bayut-api/) |
+| [propertyfinder-api](https://github.com/happyendpointhq/propertyfinder-api) | UAE listings and broker data | [docs](https://happyendpointhq.github.io/propertyfinder-api/) |
+| [sephora-api](https://github.com/happyendpointhq/sephora-api) | Beauty products, pricing, reviews, availability | [docs](https://happyendpointhq.github.io/sephora-api/) |
+| [ikea-api](https://github.com/happyendpointhq/ikea-api) | IKEA products, categories, store data | [docs](https://happyendpointhq.github.io/ikea-api/) |
+| [priceline-api](https://github.com/happyendpointhq/priceline-api) | Hotel, flight, and car rental pricing | [docs](https://happyendpointhq.github.io/priceline-api/) |
 
-## ⚡ Get API Access
+### Code and examples
 
-Available on **RapidAPI**
+| Repo | Language |
+|---|---|
+| [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) | Python client and nine runnable examples |
+| [bayut-api-javascript-nextjs](https://github.com/happyendpointhq/bayut-api-javascript-nextjs) | JavaScript and Next.js |
+| [bayut-api-postman-collection](https://github.com/happyendpointhq/bayut-api-postman-collection) | Postman collection covering every endpoint |
 
-👉 https://rapidapi.com/user/happyendpoint
+### Tools
 
----
+| Repo | What it does |
+|---|---|
+| [dubai-rental-yield-calculator](https://github.com/happyendpointhq/dubai-rental-yield-calculator) | Compares gross and net rental yields across Dubai areas |
+| [dubai-property-price-tracker](https://github.com/happyendpointhq/dubai-property-price-tracker) | Monitors listings and alerts on price drops |
 
-## 🏗 Infrastructure
+### Guides
 
-- ☁️ AWS Cloud
-- 🌍 Edge-distributed infrastructure
-- ⚡ Sub-400ms responses
-- 🔁 Resilient scraping infrastructure
-- 📦 Clean JSON APIs
-
----
-
-## 📊 Platform Status
-
-**Built by [Happy Endpoint](https://happyendpoint.com)**
-
-**Our Other Websites**
-- https://uaepropertyapi.com/
-- https://bayutapi.dev/
-
-
-[![Platform](https://img.shields.io/badge/Platform-RapidAPI-blue)](https://rapidapi.com/user/happyendpoint)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success)]()
-[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen)]()
-[![Latency](https://img.shields.io/badge/Latency-<400ms-blueviolet)]()
+| Repo | Covers |
+|---|---|
+| [uae-real-estate-data-guide](https://github.com/happyendpointhq/uae-real-estate-data-guide) | Every route to UAE property data, including alternatives to us |
 
 ---
 
-⭐ **Happy Endpoint = The Data Layer for the Internet**
+## Datasets
+
+Bulk snapshots, sold as files rather than per request.
+
+- [IKEA US Complete Product Dataset](https://payhip.com/b/Ppkis) - 10,564 products, 933 categories, CSV
+- [Sephora US Products](https://payhip.com/b/faOZH) - 8,000+ products
+- [PropertyFinder UAE Historical Transactions](https://payhip.com/b/A4nRp)
+
+More at [happyendpoint.com/datasets](https://happyendpoint.com/datasets). Need a
+platform or field set we do not list? Email us.
+
+---
+
+## Using our APIs from an AI assistant
+
+RapidAPI hosts an MCP server, so any of our APIs can be queried from Claude,
+Cursor, or another MCP client without writing code. Swap `x-api-host` for
+whichever API you want:
+
+```json
+{
+  "mcpServers": {
+    "Bayut UAE Real Estate": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://mcp.rapidapi.com",
+        "--header",
+        "x-api-host: uae-real-estate3.p.rapidapi.com",
+        "--header",
+        "x-api-key: YOUR_RAPIDAPI_KEY"
+      ]
+    }
+  }
+}
+```
+
+---
+
+## Getting started
+
+1. Pick an API from the [catalogue](https://happyendpoint.com/library)
+2. Subscribe on RapidAPI, free tier available
+3. Send your key as the `x-rapidapi-key` header
+4. Copy a working example from the repos above
+
+---
+
+## Elsewhere
+
+- [uaepropertyapi.com](https://uaepropertyapi.com/)
+- [bayutapi.dev](https://bayutapi.dev/)
+- [RapidAPI profile](https://rapidapi.com/user/happyendpoint)
+- [@happyendpointhq](https://x.com/happyendpointhq)
+- happyendpointhq@gmail.com
