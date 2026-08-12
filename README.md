@@ -64,6 +64,27 @@ the sample and switch to the paid file once your integration works.
 | [dubai-rental-yield-calculator](https://github.com/happyendpointhq/dubai-rental-yield-calculator) | Compares gross and net rental yields across Dubai areas |
 | [dubai-property-price-tracker](https://github.com/happyendpointhq/dubai-property-price-tracker) | Monitors listings and alerts on price drops |
 
+### Clients and tooling
+
+| Repo | What it is |
+|---|---|
+| [happyendpoint-mcp](https://github.com/happyendpointhq/happyendpoint-mcp) | MCP server, so Claude and Cursor can query our data directly |
+| [happyendpoint-python](https://github.com/happyendpointhq/happyendpoint-python) | Python client covering every API |
+| [happyendpoint-js](https://github.com/happyendpointhq/happyendpoint-js) | TypeScript client |
+| [happyendpoint-cli](https://github.com/happyendpointhq/happyendpoint-cli) | Query property data from the terminal |
+
+### Curated lists
+
+Research we maintain on the wider data landscape. These include competitors,
+government open data, and free alternatives, several of which are better choices
+than ours for particular use cases.
+
+| Repo | Covers |
+|---|---|
+| [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) | Property data sources by country: official, government, commercial, scraping |
+| [awesome-ecommerce-data-apis](https://github.com/happyendpointhq/awesome-ecommerce-data-apis) | Product, pricing, and retail catalogue data |
+| [awesome-alternative-data](https://github.com/happyendpointhq/awesome-alternative-data) | Alternative data for investment research |
+
 ### Guides
 
 | Repo | Covers |
