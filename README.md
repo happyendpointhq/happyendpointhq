@@ -49,6 +49,7 @@ the sample and switch to the paid file once your integration works.
 | [sephora-api](https://github.com/happyendpointhq/sephora-api) | Beauty products, pricing, reviews, availability | [docs](https://happyendpointhq.github.io/sephora-api/) |
 | [ikea-api](https://github.com/happyendpointhq/ikea-api) | IKEA products, categories, store data | [docs](https://happyendpointhq.github.io/ikea-api/) |
 | [priceline-api](https://github.com/happyendpointhq/priceline-api) | Hotel, flight, and car rental pricing | [docs](https://happyendpointhq.github.io/priceline-api/) |
+| [uae-real-estate-api](https://github.com/happyendpointhq/uae-real-estate-api) | Bayut and PropertyFinder in one API: listings, agents, transactions, with runnable examples | [docs](https://docs.happyendpoint.com/uae-realestate/) |
 | [rent-com-api](https://github.com/happyendpointhq/rent-com-api) | US rental listings, floor plans, deals, rent estimates, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/rent-com1) |
 | [aqar-api](https://github.com/happyendpointhq/aqar-api) | Saudi Arabia listings, district prices, AI search, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/aqar) |
 | [wasalt-api](https://github.com/happyendpointhq/wasalt-api) | Saudi listings, REGA licences, holiday rentals, Infath auctions, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/wasalt-saudi-data) |
