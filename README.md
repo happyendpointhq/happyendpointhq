@@ -53,6 +53,7 @@ the sample and switch to the paid file once your integration works.
 | [rent-com-api](https://github.com/happyendpointhq/rent-com-api) | US rental listings, floor plans, deals, rent estimates, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/rent-com1) |
 | [aqar-api](https://github.com/happyendpointhq/aqar-api) | Saudi Arabia listings, district prices, AI search, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/aqar) |
 | [wasalt-api](https://github.com/happyendpointhq/wasalt-api) | Saudi listings, REGA licences, holiday rentals, Infath auctions, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/wasalt-saudi-data) |
+| [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) | Spanish listings for sale and rent, prices, photos, district counts, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/fotocasa3) |
 
 ### Code and examples
 
