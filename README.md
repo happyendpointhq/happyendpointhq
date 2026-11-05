@@ -154,7 +154,7 @@ whichever API you want:
 - [bayutapi.dev](https://bayutapi.dev/)
 - [RapidAPI profile](https://rapidapi.com/user/happyendpoint)
 - [@happyendpointhq](https://x.com/happyendpointhq)
-- happyendpointhq@gmail.com
+- hello@happyendpoint.com
 
 ---
 
