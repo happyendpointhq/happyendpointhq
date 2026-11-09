@@ -55,6 +55,7 @@ the sample and switch to the paid file once your integration works.
 | [wasalt-api](https://github.com/happyendpointhq/wasalt-api) | Saudi listings, REGA licences, holiday rentals, Infath auctions, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/wasalt-saudi-data) |
 | [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) | Spanish listings for sale and rent, prices, photos, district counts, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/fotocasa3) |
 | [yad2-api](https://github.com/happyendpointhq/yad2-api) | Israel real estate, registered sale prices, cars and marketplace listings, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/yad21) |
+| [99co-api](https://github.com/happyendpointhq/99co-api) | Singapore condo, HDB and landed listings, new launches and transactions, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/99-co-sg-api) |
 
 ### Code and examples
 
