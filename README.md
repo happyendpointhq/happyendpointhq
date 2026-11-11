@@ -56,6 +56,8 @@ the sample and switch to the paid file once your integration works.
 | [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) | Spanish listings for sale and rent, prices, photos, district counts, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/fotocasa3) |
 | [yad2-api](https://github.com/happyendpointhq/yad2-api) | Israel real estate, registered sale prices, cars and marketplace listings, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/yad21) |
 | [99co-api](https://github.com/happyendpointhq/99co-api) | Singapore condo, HDB and landed listings, new launches and transactions, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/99-co-sg-api) |
+| [morningstar-api](https://github.com/happyendpointhq/morningstar-api) | Stock quotes, fundamentals, fair value, ESG and earnings transcripts, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/morningstar13) |
+| [noon-api](https://github.com/happyendpointhq/noon-api) | Noon products in the UAE, Saudi Arabia and Egypt: prices, Buy Box sellers, offers, reviews, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/noon7) |
 
 ### Code and examples
 
