@@ -58,6 +58,8 @@ the sample and switch to the paid file once your integration works.
 | [99co-api](https://github.com/happyendpointhq/99co-api) | Singapore condo, HDB and landed listings, new launches and transactions, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/99-co-sg-api) |
 | [morningstar-api](https://github.com/happyendpointhq/morningstar-api) | Stock quotes, fundamentals, fair value, ESG and earnings transcripts, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/morningstar13) |
 | [noon-api](https://github.com/happyendpointhq/noon-api) | Noon products in the UAE, Saudi Arabia and Egypt: prices, Buy Box sellers, offers, reviews, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/noon7) |
+| [hepsiemlak-api](https://github.com/happyendpointhq/hepsiemlak-api) | Turkey listings for sale and rent and a price index per m2 by province, county and district, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/hepsiemlak-turkish-property-api) |
+| [cian-api](https://github.com/happyendpointhq/cian-api) | Russia listings, asking-price history, market estimates and new-build complexes, with runnable examples | [RapidAPI](https://rapidapi.com/happyendpoint/api/cian-ru) |
 
 ### Code and examples
 
